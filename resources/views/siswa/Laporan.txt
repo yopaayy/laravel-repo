@@ -1,0 +1,10 @@
+Laporan
+1. ubah artisan jadi :
+php artisan serve --host=0.0.0.0
+
+2. cek ip komputer : cmd => ipconfig
+catat ip komputer kamu lalu laporkan ke depan
+
+zip/rar projek laravel hasil nya taruh di folder
+www/hasil
+kirimkan ip ke meja guru
